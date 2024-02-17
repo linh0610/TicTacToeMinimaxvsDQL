@@ -1,0 +1,3 @@
+wins:0
+loses: 14
+ties: 0
