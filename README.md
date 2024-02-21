@@ -18,7 +18,7 @@ No training:
 - ties: 0
 
 After 12 hours of training:
-- wins:1
+- wins:15
 - loses: 0
 - ties: 0
 

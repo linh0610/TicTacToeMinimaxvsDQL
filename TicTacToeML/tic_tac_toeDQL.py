@@ -342,8 +342,8 @@ def process_games(games, model, model_2):
 
 
 mode = input('Choose a mode: (training/playing) ')
-running = True
-while running:
+
+while True:
 
     board = [0, 0, 0, 0, 0, 0, 0, 0, 0]
     # sides --> 0 = Os, 1 = Xs
